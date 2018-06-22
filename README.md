@@ -3,7 +3,7 @@ Hey guys! Thought I would add the template I use for whenever I start a new bot.
 
 Step 1) 
 
-  Download or git pull the files to your local machine.
+  Download or git clone the files to your local machine.
   
   
 Step 2) 
