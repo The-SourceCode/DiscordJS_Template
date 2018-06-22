@@ -34,7 +34,7 @@ bot.on("message", async message => {
   if(message.channel.type === 'dm') return;
   let content = message.content.split(" ");
   let command = content[0];
-  let args = text.slice(1);
+  let args = content.slice(1);
   let prefix = config.prefix;
 
 
